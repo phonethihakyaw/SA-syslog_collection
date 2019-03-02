@@ -1,0 +1,9 @@
+While Splunk can listen for syslog data directly, for large implementation is it recommended to stand up dedicated collection infrastructure with a Universal forwarder for data forwarding to the indexer tier.
+
+This app provides monitoring dashboards and sample configuration for two popular collection mechanisms based on:
+- rsyslog
+- syslog-ng
+
+This project is hosted on GitHub, see https://github.com/hire-vladimir/SA-syslog_collection
+
+Collaborators wanted!!!
